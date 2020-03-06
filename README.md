@@ -1,3 +1,3 @@
 # VirtualTelepresenceRobot
 Construction of a Crawling Robot for Virtual Telepresence.<br />
-A remote controlled robot that gives the experience of a location based on virtual reality. 
+A robot that provides virtual view of the surveillance or rescue location.
