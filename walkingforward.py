@@ -30,7 +30,7 @@ while True:
     rf1.angle=150
     lm1.angle=30
     rr1.angle=150
-    time.sleep(0.2)
+    time.sleep(0.3)
 
     rf0.angle=100
     lf0.angle=120
@@ -38,7 +38,7 @@ while True:
     rm0.angle=60
     rr0.angle=100
     lr0.angle=120
-    time.sleep(0.2)
+    time.sleep(0.3)
 
     rf1.angle=100
     lm1.angle=80
@@ -48,7 +48,7 @@ while True:
     lf1.angle=30
     rm1.angle=150
     lr1.angle=30
-    time.sleep(0.2)
+    time.sleep(0.3)
     
     lf0.angle=80
     rf0.angle=60
@@ -56,7 +56,7 @@ while True:
     lm0.angle=120
     lr0.angle=80
     rr0.angle=60
-    time.sleep(0.2)
+    time.sleep(0.3)
     
     lf1.angle=80
     rm1.angle=100
